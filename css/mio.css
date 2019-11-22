@@ -1,0 +1,71 @@
+.letranormal{
+    font-size: 2em !important;
+}
+
+.ancho{
+    width: 70% !important;
+    min-width: 400px !important;
+}
+
+.anchoSingle{
+    width: 60% !important;
+    min-width: 470px !important;
+}
+
+.todo{
+    width: 100% !important;
+}
+
+.foto{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius:150px;
+}
+
+.fotoSingle{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius:350px;
+}
+
+.fotogrande{
+    width: 45%;
+    min-width: 400px;
+}
+
+.fotosingle{
+    border-radius:200px;
+    height: 50%;
+    min-height: 400px;
+    object-fit: cover;
+    object-position: center 40%;
+}
+
+.ancho450{
+    width: 450px !important;
+}
+
+.anchoStandar{
+    width: 75%;
+    min-width: 450px;
+}
+
+.imagen{
+    width: 80%;
+    max-width: 750px;
+    height: 50%;
+    min-height: 250px;
+    object-fit: cover;
+    object-position: 100% 50%;
+}
+
+.visitar{
+    font-size: 2em;
+}
+
+.visitar a {
+    font-size: 1em;
+    color: green;
+}
